@@ -4,7 +4,6 @@ Final Year B.tech Project on Machine Learning Stock Prediction through Deep Lear
 # Stock-Price-Prediction
 Top Class Stock Price Prediction Project through Machine Learning Algorithms for Google. Easy Understanding and Implementation.
 
-### Project PPT [**LINK**](https://github.com/Vatshayan/Final-Year-Machine-Learning-Stock-Price-Prediction-Project/blob/main/Stock_price%20_prediction.pptx)
 
 ### Stock Price Prediction :
 
@@ -51,35 +50,11 @@ As you might have guessed, our focus will be on the technical analysis and visua
 Project is totally based on research papers as project predict output using LSTM based deep learning models:
 
 1. https://arxiv.org/abs/2009.10819
-
-2. https://www.aclweb.org/anthology/W19-6403.pdf
-
-3. https://www.sciencedirect.com/science/article/pii/S1877050920304865
-
-### Youtube Video of this Project: https://www.youtube.com/watch?v=44u5oU9MQGg
+2. https://www.sciencedirect.com/science/article/pii/S1877050920304865
 
 
-<h1 align="center"> नमस्ते (Namaste) 🙏🏻 , I'm Shivam Vatshayan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
-<h3 align="center">I'm a Developer from India ❤</h3>
 
-**You Can use this Beautiful Project for your college Project and get good marks too.**
 
-Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Report, Synopsis, Video Presentation and Research paper of this Project.
 
-💌 Feel free to contact me for any kind of help on projects.
- 
-### Need Code, Documents & Explanation video ? 
 
-## How to Reach me :
 
-### Mail : vatshayan007@gmail.com 
-
-### WhatsApp: **+91 9310631437** (Helping 24*7) **[CHAT](https://wa.me/message/CHWN2AHCPMAZK1)** 
-
-### Website : https://www.finalproject.in/
-
-### 1000 Computer Science Projects : https://www.computer-science-project.in/
-
-### Youtube Video of this Project: https://www.youtube.com/watch?v=44u5oU9MQGg
-
-Mail/Message me for Projects Help 🙏🏻
